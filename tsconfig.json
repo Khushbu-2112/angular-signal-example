@@ -2,6 +2,9 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "paths": {
+    "signals-debugger": ["./dist/signals-debugger"]
+  },
     "outDir": "./dist/out-tsc",
     "strict": true,
     "noImplicitOverride": true,
